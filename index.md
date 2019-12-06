@@ -1,4 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to My nonprofessional Website
+keep in mind that:
+1. I am naive
+2. I am not a techy person
+3. I am trying my best
+
+**Please Don't Judge**
+
+```javascript
+hoodieButton.onclick = function() {
+  hoodie = hoodie + 1;
+  hoodieDisplay.innerHTML = Math.round(hoodie) + " nerdy casual hoodie(s)";
+  })
+  }
+}
+```
 
 You can use the [editor on GitHub](https://github.com/jiwonhong0607/jiwonhong0607.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
