@@ -14,6 +14,7 @@ hoodieButton.onclick = function() {
   }
 }
 ```
+![Alt Text](https://aabgu.org//wp-content/uploads/2019/07/cow.jpg)
 
 You can use the [editor on GitHub](https://github.com/jiwonhong0607/jiwonhong0607.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
