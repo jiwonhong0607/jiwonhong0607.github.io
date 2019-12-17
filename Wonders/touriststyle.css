@@ -1,0 +1,40 @@
+
+
+.header a{color:black;
+text-align: center;
+font-size:30pt;
+font-family:"Roboto";
+}
+
+p.number{color:black;
+background-color: white;
+text-align:center;
+line-height:70px;
+font-size:25pt;
+font-family:"Times New Roman";}
+
+p.view{color:black;
+text-decoration: underline;
+text-align:center;
+font-size:25pt;
+font-family:"Times New Roman";}
+
+
+.href a{color:black;
+text-align:center;
+font-size:25pt;
+font-family:"Roboto";}
+
+img {
+    border-radius:50%;
+}
+.wonders{
+  text-align:center;
+  display: table;
+  margin: px;
+  line-height: 30px;
+}
+
+body{
+  background-color:#ABCBD6;
+}

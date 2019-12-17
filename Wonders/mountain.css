@@ -1,0 +1,19 @@
+
+  p.number{color:black;
+  text-align:left;
+  font-size:25pt;
+  font-family:"Book Man";
+}
+
+body{
+   background-color: #9FBAC0;
+}
+img{
+    border-radius:10%;
+
+  }
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

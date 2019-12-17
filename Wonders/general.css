@@ -1,0 +1,19 @@
+
+  p.number{color:black;
+  text-align:left;
+  font-size:25pt;
+  font-family:"Bookman";
+}
+
+body{
+  background-color: #D1EFF5;
+}
+img{
+    border-radius:10%;
+
+  }
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
