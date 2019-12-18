@@ -1,0 +1,63 @@
+hr{color:white;}
+
+h1{color:white;
+  margin:20pt;
+  text-align: Center;
+  font-size:40pt; 
+  line-height: 50pt;  
+  font-family:"Times New Roman";}
+
+h2{color:white;
+  margin:12pt;
+  text-align:left;
+  font-size:20pt;
+  font-family:"Times New Roman";}
+
+h3{color:white;
+  margin:20pt;
+  text-align: left;
+  font-size:20pt;
+  font-family:"Times New Roman";}
+
+.shopping{color:white;
+  margin:20pt;
+  text-align:left;
+  font-size:20pt;
+  line-height: 20pt;
+  font-family:"Times New Roman";
+  display: flex;
+  flex-flow:row;
+  }
+
+h5{color:white;
+  margin:20pt;
+  text-align:left;
+  font-size:40pt;
+  line-height: 50pt;
+  font-family:"Times New Roman";}
+
+p.heading{color: white;
+}
+
+p.number{color:gray;
+  font-style:bold;
+  display: inline;}
+
+  img{
+    padding: 30px;
+    border-radius: 30%;
+  }
+
+  .hey{
+    color: aliceblue;
+  }
+
+  .hi{
+    text-align: right;
+  }
+  body{ /*I got this from https://www.w3schools.com/html/html_images_background.asp*/
+    background-image: url('background.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
