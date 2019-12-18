@@ -1,0 +1,33 @@
+#login{
+background-color:#B3B3B3;
+border-radius:20px;
+padding: 10px 10px;
+text-align:center;
+text-decoration: bold;
+font-size: 16px;
+font-family: Georgia;
+border:none;}
+ #pw{
+ background-color:#D6D6D6;
+ border-radius:50px;
+ padding: 10px 10px;
+ text-align:center;
+ text-decoration: bold;
+ font-size: 16px;
+ font-family: Georgia;
+ border:none;
+}
+#submit{
+background-color:gray;
+border-radius:50px;
+padding: 10px 10px;
+text-align: center;
+text-decoration: bold;
+font-size: 16px;
+font-family: Georgia;
+border:none;
+}
+
+body{
+  background-color:#696969;
+}
